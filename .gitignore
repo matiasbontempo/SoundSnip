@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+dist/
+
+# Editor / IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Local test output
+out-*/
+home-*/
